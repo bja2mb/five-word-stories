@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-There once was a dog. The dog was happy.
-=======
 There once was a dog. The dog was very happy. The dog liked to sleep.
->>>>>>> 63a29485ccd0e4287d356bbf9db01fd47de121d0
